@@ -1,0 +1,62 @@
+╔══════════════════════════════════════════════════╗
+║         EL CHAMBEADOR DRAGON  🐉🔥               ║
+║         Guía de instalación rápida               ║
+╚══════════════════════════════════════════════════╝
+
+════════════════════════════════════════════════════
+  PASO 1 — Instalar Python (si no lo tienes)
+════════════════════════════════════════════════════
+  Ve a: https://www.python.org/downloads/
+
+
+
+════════════════════════════════════════════════════
+  PASO 2 — Instalar las dependencias
+════════════════════════════════════════════════════
+  Abre una terminal (CMD o PowerShell en Windows,
+  Terminal en macOS/Linux) dentro de esta carpeta
+  y ejecuta:
+
+    pip install -r requirements.txt
+
+
+════════════════════════════════════════════════════
+  PASO 3 — Ejecutar el bot
+════════════════════════════════════════════════════
+  En la misma terminal, escribe:
+
+    python main.py
+
+  ¡Y listo! Sigue las instrucciones en pantalla.
+
+
+════════════════════════════════════════════════════
+  RESULTADO
+════════════════════════════════════════════════════
+  Al terminar la búsqueda, el bot crea un archivo
+  .TXT en tu Escritorio con todas las ofertas
+  encontradas.
+
+
+════════════════════════════════════════════════════
+  NOTAS
+════════════════════════════════════════════════════
+  • Por ahora solo funciona LinkedIn debido
+   al bloqueo de los programas de scrapping
+   pero trabajare para mejorar eso.  
+
+  • Si una página demora mucho, es normal: el bot
+    espera entre requests para no ser bloqueado.
+
+  • El archivo se llama:
+    chambeador_<puesto>_<fecha>.txt
+
+  • Cualquier mejora o consulta puedes escribirme
+    directamente a mis redes que estarán abajo y
+    estaré más que agradecido
+
+No olvides seguirme en mis redes ^^
+IG: mavizag2
+Github: mavizag2
+LinkedIn: Matias Zamudio
+Tik tok: mavizag_uchiha
